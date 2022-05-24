@@ -6,5 +6,5 @@ src-git-full telephony https://git.openwrt.org/feed/telephony.git
 #src-git-full targets https://github.com/openwrt/targets.git
 #src-git-full oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
-src-git mtk https://github.com/Nossiac/mtk-openwrt-feeds;lede-17.01
-#src-git mtk https://github.com/spot320/openwrt-r3p-mtk;lede-17.01
+#src-git mtk https://github.com/Nossiac/mtk-openwrt-feeds;lede-17.01
+src-git mtk https://github.com/spot320/openwrt-r3p-mtk-feeds
